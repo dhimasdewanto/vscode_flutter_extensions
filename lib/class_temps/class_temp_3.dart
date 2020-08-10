@@ -1,0 +1,1 @@
+class ClassTemp3 {}
